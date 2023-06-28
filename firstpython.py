@@ -1,2 +1,2 @@
-# Display output
+# Display output for now
 print("Hello World!")
